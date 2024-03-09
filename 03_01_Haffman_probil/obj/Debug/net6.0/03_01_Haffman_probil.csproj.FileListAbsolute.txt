@@ -1,0 +1,14 @@
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman_probil\bin\Debug\net6.0\03_01_Haffman_probil.exe
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman_probil\bin\Debug\net6.0\03_01_Haffman_probil.deps.json
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman_probil\bin\Debug\net6.0\03_01_Haffman_probil.runtimeconfig.json
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman_probil\bin\Debug\net6.0\03_01_Haffman_probil.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman_probil\bin\Debug\net6.0\03_01_Haffman_probil.pdb
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman_probil\obj\Debug\net6.0\03_01_Haffman_probil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman_probil\obj\Debug\net6.0\03_01_Haffman_probil.AssemblyInfoInputs.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman_probil\obj\Debug\net6.0\03_01_Haffman_probil.AssemblyInfo.cs
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman_probil\obj\Debug\net6.0\03_01_Haffman_probil.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman_probil\obj\Debug\net6.0\03_01_Haffman_probil.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman_probil\obj\Debug\net6.0\refint\03_01_Haffman_probil.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman_probil\obj\Debug\net6.0\03_01_Haffman_probil.pdb
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman_probil\obj\Debug\net6.0\03_01_Haffman_probil.genruntimeconfig.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman_probil\obj\Debug\net6.0\ref\03_01_Haffman_probil.dll

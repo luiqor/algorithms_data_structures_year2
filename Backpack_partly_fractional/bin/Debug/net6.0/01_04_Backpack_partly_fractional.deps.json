@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "01_04_Backpack_partly_fractional/1.0.0": {
+        "runtime": {
+          "01_04_Backpack_partly_fractional.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01_04_Backpack_partly_fractional/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_2_triangulation_diagonali\bin\Debug\net6.0\01_06_2_triangulation_diagonali.exe
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_2_triangulation_diagonali\bin\Debug\net6.0\01_06_2_triangulation_diagonali.deps.json
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_2_triangulation_diagonali\bin\Debug\net6.0\01_06_2_triangulation_diagonali.runtimeconfig.json
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_2_triangulation_diagonali\bin\Debug\net6.0\01_06_2_triangulation_diagonali.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_2_triangulation_diagonali\bin\Debug\net6.0\01_06_2_triangulation_diagonali.pdb
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_2_triangulation_diagonali\obj\Debug\net6.0\01_06_2_triangulation_diagonali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_2_triangulation_diagonali\obj\Debug\net6.0\01_06_2_triangulation_diagonali.AssemblyInfoInputs.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_2_triangulation_diagonali\obj\Debug\net6.0\01_06_2_triangulation_diagonali.AssemblyInfo.cs
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_2_triangulation_diagonali\obj\Debug\net6.0\01_06_2_triangulation_diagonali.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_2_triangulation_diagonali\obj\Debug\net6.0\01_06_2_triangulation_diagonali.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_2_triangulation_diagonali\obj\Debug\net6.0\refint\01_06_2_triangulation_diagonali.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_2_triangulation_diagonali\obj\Debug\net6.0\01_06_2_triangulation_diagonali.pdb
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_2_triangulation_diagonali\obj\Debug\net6.0\01_06_2_triangulation_diagonali.genruntimeconfig.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_2_triangulation_diagonali\obj\Debug\net6.0\ref\01_06_2_triangulation_diagonali.dll

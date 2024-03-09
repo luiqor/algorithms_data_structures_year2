@@ -1,0 +1,14 @@
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_1_triangulation_area\obj\Debug\net6.0\01_06_1_triangulation_area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_1_triangulation_area\obj\Debug\net6.0\01_06_1_triangulation_area.AssemblyInfoInputs.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_1_triangulation_area\obj\Debug\net6.0\01_06_1_triangulation_area.AssemblyInfo.cs
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_1_triangulation_area\obj\Debug\net6.0\01_06_1_triangulation_area.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_1_triangulation_area\bin\Debug\net6.0\01_06_1_triangulation_area.exe
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_1_triangulation_area\bin\Debug\net6.0\01_06_1_triangulation_area.deps.json
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_1_triangulation_area\bin\Debug\net6.0\01_06_1_triangulation_area.runtimeconfig.json
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_1_triangulation_area\bin\Debug\net6.0\01_06_1_triangulation_area.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_1_triangulation_area\bin\Debug\net6.0\01_06_1_triangulation_area.pdb
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_1_triangulation_area\obj\Debug\net6.0\01_06_1_triangulation_area.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_1_triangulation_area\obj\Debug\net6.0\refint\01_06_1_triangulation_area.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_1_triangulation_area\obj\Debug\net6.0\01_06_1_triangulation_area.pdb
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_1_triangulation_area\obj\Debug\net6.0\01_06_1_triangulation_area.genruntimeconfig.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\01_06_1_triangulation_area\obj\Debug\net6.0\ref\01_06_1_triangulation_area.dll

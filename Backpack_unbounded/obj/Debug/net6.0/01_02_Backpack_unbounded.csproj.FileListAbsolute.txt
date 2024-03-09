@@ -1,0 +1,14 @@
+C:\Users\diana\source\repos\Algorithms_kurs2\Backpack_unbounded\obj\Debug\net6.0\01_02_Backpack_unbounded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\source\repos\Algorithms_kurs2\Backpack_unbounded\obj\Debug\net6.0\01_02_Backpack_unbounded.AssemblyInfoInputs.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\Backpack_unbounded\obj\Debug\net6.0\01_02_Backpack_unbounded.AssemblyInfo.cs
+C:\Users\diana\source\repos\Algorithms_kurs2\Backpack_unbounded\obj\Debug\net6.0\01_02_Backpack_unbounded.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\Backpack_unbounded\bin\Debug\net6.0\01_02_Backpack_unbounded.exe
+C:\Users\diana\source\repos\Algorithms_kurs2\Backpack_unbounded\bin\Debug\net6.0\01_02_Backpack_unbounded.deps.json
+C:\Users\diana\source\repos\Algorithms_kurs2\Backpack_unbounded\bin\Debug\net6.0\01_02_Backpack_unbounded.runtimeconfig.json
+C:\Users\diana\source\repos\Algorithms_kurs2\Backpack_unbounded\bin\Debug\net6.0\01_02_Backpack_unbounded.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\Backpack_unbounded\bin\Debug\net6.0\01_02_Backpack_unbounded.pdb
+C:\Users\diana\source\repos\Algorithms_kurs2\Backpack_unbounded\obj\Debug\net6.0\01_02_Backpack_unbounded.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\Backpack_unbounded\obj\Debug\net6.0\refint\01_02_Backpack_unbounded.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\Backpack_unbounded\obj\Debug\net6.0\01_02_Backpack_unbounded.pdb
+C:\Users\diana\source\repos\Algorithms_kurs2\Backpack_unbounded\obj\Debug\net6.0\01_02_Backpack_unbounded.genruntimeconfig.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\Backpack_unbounded\obj\Debug\net6.0\ref\01_02_Backpack_unbounded.dll

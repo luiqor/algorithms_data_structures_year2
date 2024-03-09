@@ -1,0 +1,14 @@
+C:\Users\diana\source\repos\Algorithms_kurs2\Schedule_03\obj\Debug\net6.0\Schedule_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\source\repos\Algorithms_kurs2\Schedule_03\obj\Debug\net6.0\Schedule_03.AssemblyInfoInputs.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\Schedule_03\obj\Debug\net6.0\Schedule_03.AssemblyInfo.cs
+C:\Users\diana\source\repos\Algorithms_kurs2\Schedule_03\obj\Debug\net6.0\Schedule_03.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\Schedule_03\bin\Debug\net6.0\Schedule_03.exe
+C:\Users\diana\source\repos\Algorithms_kurs2\Schedule_03\bin\Debug\net6.0\Schedule_03.deps.json
+C:\Users\diana\source\repos\Algorithms_kurs2\Schedule_03\bin\Debug\net6.0\Schedule_03.runtimeconfig.json
+C:\Users\diana\source\repos\Algorithms_kurs2\Schedule_03\bin\Debug\net6.0\Schedule_03.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\Schedule_03\bin\Debug\net6.0\Schedule_03.pdb
+C:\Users\diana\source\repos\Algorithms_kurs2\Schedule_03\obj\Debug\net6.0\Schedule_03.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\Schedule_03\obj\Debug\net6.0\refint\Schedule_03.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\Schedule_03\obj\Debug\net6.0\Schedule_03.pdb
+C:\Users\diana\source\repos\Algorithms_kurs2\Schedule_03\obj\Debug\net6.0\Schedule_03.genruntimeconfig.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\Schedule_03\obj\Debug\net6.0\ref\Schedule_03.dll

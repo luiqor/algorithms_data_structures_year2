@@ -1,0 +1,14 @@
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\bin\Debug\net6.0\Fractional_knapsack.exe
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\bin\Debug\net6.0\Fractional_knapsack.deps.json
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\bin\Debug\net6.0\Fractional_knapsack.runtimeconfig.json
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\bin\Debug\net6.0\Fractional_knapsack.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\bin\Debug\net6.0\Fractional_knapsack.pdb
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\obj\Debug\net6.0\Fractional_knapsack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\obj\Debug\net6.0\Fractional_knapsack.AssemblyInfoInputs.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\obj\Debug\net6.0\Fractional_knapsack.AssemblyInfo.cs
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\obj\Debug\net6.0\Fractional_knapsack.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\obj\Debug\net6.0\Fractional_knapsack.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\obj\Debug\net6.0\refint\Fractional_knapsack.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\obj\Debug\net6.0\Fractional_knapsack.pdb
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\obj\Debug\net6.0\Fractional_knapsack.genruntimeconfig.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\obj\Debug\net6.0\ref\Fractional_knapsack.dll

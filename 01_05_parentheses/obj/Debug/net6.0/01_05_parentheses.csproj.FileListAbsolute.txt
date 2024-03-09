@@ -1,0 +1,14 @@
+C:\Users\diana\source\repos\Algorithms_kurs2\01_05_parentheses\bin\Debug\net6.0\01_05_parentheses.exe
+C:\Users\diana\source\repos\Algorithms_kurs2\01_05_parentheses\bin\Debug\net6.0\01_05_parentheses.deps.json
+C:\Users\diana\source\repos\Algorithms_kurs2\01_05_parentheses\bin\Debug\net6.0\01_05_parentheses.runtimeconfig.json
+C:\Users\diana\source\repos\Algorithms_kurs2\01_05_parentheses\bin\Debug\net6.0\01_05_parentheses.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\01_05_parentheses\bin\Debug\net6.0\01_05_parentheses.pdb
+C:\Users\diana\source\repos\Algorithms_kurs2\01_05_parentheses\obj\Debug\net6.0\01_05_parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\source\repos\Algorithms_kurs2\01_05_parentheses\obj\Debug\net6.0\01_05_parentheses.AssemblyInfoInputs.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\01_05_parentheses\obj\Debug\net6.0\01_05_parentheses.AssemblyInfo.cs
+C:\Users\diana\source\repos\Algorithms_kurs2\01_05_parentheses\obj\Debug\net6.0\01_05_parentheses.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\01_05_parentheses\obj\Debug\net6.0\01_05_parentheses.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\01_05_parentheses\obj\Debug\net6.0\refint\01_05_parentheses.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\01_05_parentheses\obj\Debug\net6.0\01_05_parentheses.pdb
+C:\Users\diana\source\repos\Algorithms_kurs2\01_05_parentheses\obj\Debug\net6.0\01_05_parentheses.genruntimeconfig.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\01_05_parentheses\obj\Debug\net6.0\ref\01_05_parentheses.dll

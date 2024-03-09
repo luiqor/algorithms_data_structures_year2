@@ -1,0 +1,14 @@
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\bin\Debug\net6.0\01_03_Backpack_fractioned.exe
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\bin\Debug\net6.0\01_03_Backpack_fractioned.deps.json
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\bin\Debug\net6.0\01_03_Backpack_fractioned.runtimeconfig.json
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\bin\Debug\net6.0\01_03_Backpack_fractioned.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\bin\Debug\net6.0\01_03_Backpack_fractioned.pdb
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\obj\Debug\net6.0\01_03_Backpack_fractioned.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\obj\Debug\net6.0\01_03_Backpack_fractioned.AssemblyInfoInputs.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\obj\Debug\net6.0\01_03_Backpack_fractioned.AssemblyInfo.cs
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\obj\Debug\net6.0\01_03_Backpack_fractioned.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\obj\Debug\net6.0\01_03_Backpack_fractioned.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\obj\Debug\net6.0\refint\01_03_Backpack_fractioned.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\obj\Debug\net6.0\01_03_Backpack_fractioned.pdb
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\obj\Debug\net6.0\01_03_Backpack_fractioned.genruntimeconfig.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\Fractional_knapsack\obj\Debug\net6.0\ref\01_03_Backpack_fractioned.dll

@@ -1,0 +1,14 @@
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman\bin\Debug\net6.0\03_01_Haffman.exe
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman\bin\Debug\net6.0\03_01_Haffman.deps.json
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman\bin\Debug\net6.0\03_01_Haffman.runtimeconfig.json
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman\bin\Debug\net6.0\03_01_Haffman.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman\bin\Debug\net6.0\03_01_Haffman.pdb
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman\obj\Debug\net6.0\03_01_Haffman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman\obj\Debug\net6.0\03_01_Haffman.AssemblyInfoInputs.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman\obj\Debug\net6.0\03_01_Haffman.AssemblyInfo.cs
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman\obj\Debug\net6.0\03_01_Haffman.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman\obj\Debug\net6.0\03_01_Haffman.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman\obj\Debug\net6.0\refint\03_01_Haffman.dll
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman\obj\Debug\net6.0\03_01_Haffman.pdb
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman\obj\Debug\net6.0\03_01_Haffman.genruntimeconfig.cache
+C:\Users\diana\source\repos\Algorithms_kurs2\03_01_Haffman\obj\Debug\net6.0\ref\03_01_Haffman.dll
